@@ -1,1 +1,1 @@
-# code-exercises
+# Code  exercises
