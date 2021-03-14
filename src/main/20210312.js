@@ -21,4 +21,5 @@ function countDecodes(code, count = 1) {
     return count;
 }
 
-console.log(countDecodes('11111'));
+const code = '1263216';
+console.log('Decoding ' + code + ': ' + countDecodes(code));
